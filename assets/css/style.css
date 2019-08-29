@@ -1,0 +1,40 @@
+.borda-direita {
+    border-right: 1px solid black;
+}
+
+.borda-inferior {
+    border-bottom: 1px solid black;
+    border-top:0px!important;
+}
+
+.campo {
+    text-align: center;
+    width: 100px;
+    color: white;
+    padding: 10px 25px;
+    cursor: pointer;
+    font-size: 35px;
+}
+
+.align-center {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.margin{
+    margin: 5px;
+}
+
+.play{
+    padding: 10px 67px;
+}
+
+.back-home{
+    float:right;
+}
+h3{
+    text-align:right;
+}
