@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
     <head>
         <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/')?>bootstrap/css/bootstrap.min.css">
         <link href="<?php echo base_url('assets/')?>fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
