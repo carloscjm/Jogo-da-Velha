@@ -1,4 +1,4 @@
-Manual de Instalação Jogo da Velha
+Manual de Instalação Jogo da Velha 
 
 Sobre o jogo
 O sistema foi desenvolvido utilizando Windows 7 64 bits e o servidor Xampp, tanto para o php quanto para o banco de dados. Foram utilizados também o framework CodeIgniter, MySQL para o banco de dados e o Bootstrap para o front-end.
